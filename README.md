@@ -3,7 +3,7 @@
 
 Developed a Todo web application with the following requirements:
 -----------------------------------------------------------------
-    👤 Login - Existing User and Admin
+    👤 Login - Existing User
     👥 Register - New User
     🏠 Home - User
       👀 View Items 
@@ -18,7 +18,7 @@ Developed a Todo web application with the following requirements:
 
 Tables used for each sections:
 -----------------------------
-    1. "🗃️-Auth table with Admin and User"  for storing user data.
+    1. "🗃️-Auth table" for storing user data.
     2. "🗃️-Todo Items table" for storing Items.
 
     
