@@ -6,9 +6,9 @@ Developed a Todo web application with the following requirements:
   👤 Login - Existing User and Admin
   👥 Register - New User
   🏠 Home - User
-      👀 View Items 
-          ➕ Add Item 
-          ➖ Remove Item
+    👀 View Items 
+      ➕ Add Item 
+      ➖ Remove Item
   📤 Logout
 
 
