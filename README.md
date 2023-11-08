@@ -22,8 +22,8 @@ Tables used for each sections:
     2. "🗃️-Todo Items table" for storing Items.
 
     
-Steps used and challenges faced to build this application:-
------------------------------------------------------------
+Steps used to build this application:-
+-------------------------------------
     👉 Added the required maven dependencies (SQL, Servlet, JSTL).
     👉 Installed and used Tom cat server for server communication.
     👉 Connected Database for storing and accessing data.
