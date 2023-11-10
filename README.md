@@ -12,8 +12,8 @@ Developed a Todo web application with the following requirements:
     📤 Logout
 
 
--> '💻-Java, JSP, XML, Bootstrap, HTML, CSS' for coding.
--> '🗃️-Database' for storing and retrieving data.
+    -> '💻-Java, JSP, XML, Bootstrap, HTML, CSS' for coding.
+    -> '🗃️-Database' for storing and retrieving data.
 
 
 Tables used for each sections:
